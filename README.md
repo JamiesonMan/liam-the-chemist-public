@@ -1,4 +1,8 @@
 # liam-the-chemist-public
+
+Watch this full demo of the website!
+https://youtu.be/Ia0kiP98O_I
+
 A collection of liamthechemist.com redacting anything leading to cyber security concerns.
 
 This repository is meant for me to show this cool project I spent so much time on, without opening some attack vector or worrying about a secret getting out.
