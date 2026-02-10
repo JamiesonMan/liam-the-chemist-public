@@ -5,6 +5,8 @@ https://youtu.be/Ia0kiP98O_I
 
 A collection of liamthechemist.com redacting anything leading to cyber security concerns.
 
+<a href="liamthechemist.com">liamthechemist.com</a>
+
 This repository is meant for me to show this cool project I spent so much time on, without opening some attack vector or worrying about a secret getting out.
 
 Watch the demo video to see the functionality I implemented for his website.
